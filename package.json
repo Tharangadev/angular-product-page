@@ -1,0 +1,25 @@
+{
+  "name": "angular-product-page",
+  "version": "1.0.0",
+  "description": "angular product page with sematic ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharangadev/angular-product-page.git"
+  },
+  "keywords": [
+    "angullar",
+    "node",
+    "product",
+    "page"
+  ],
+  "author": "thatanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharangadev/angular-product-page/issues"
+  },
+  "homepage": "https://github.com/Tharangadev/angular-product-page#readme"
+}
