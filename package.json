@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Tharangadev/angular-product-page/issues"
   },
-  "homepage": "https://github.com/Tharangadev/angular-product-page#readme"
+  "homepage": "https://github.com/Tharangadev/angular-product-page#readme",
+  "dependencies": {
+    "semantic-ui-less": "^2.2.11"
+  }
 }
