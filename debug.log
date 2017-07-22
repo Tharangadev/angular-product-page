@@ -2,3 +2,11 @@
 [0720/170859.795:ERROR:crash_report_database_win.cc(426)] unexpected header
 [0721/041949.041:ERROR:crash_report_database_win.cc(426)] unexpected header
 [0721/130003.693:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0722/110609.204:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0722/110609.204:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0722/110609.204:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0722/110609.205:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0722/184707.083:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0722/184707.084:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0722/184707.084:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0722/184707.084:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
